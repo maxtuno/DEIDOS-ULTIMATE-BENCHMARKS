@@ -7,6 +7,7 @@ Find the the most epsilon nearest linear combination to some target:
 Example:
 
 Instance:
+
 3 0.0001
 
 -4.06344393  3.76656635  6.30817717
