@@ -1,0 +1,1 @@
+ref: http://codereview.stackexchange.com/questions/154782/optimisation-of-subset-sum-code
